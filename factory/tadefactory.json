@@ -1,0 +1,9 @@
+{
+	"name": "tadefactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d451edbf-44d7-4c49-995d-9866bf0e157b",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
